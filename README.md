@@ -94,7 +94,7 @@ else {
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/simple-node-server.git
+git clone https://github.com/CodeWithPurnendra/My-First-Server.git
 ```
 
 ### 2. Navigate to the Project Folder
